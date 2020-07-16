@@ -18,7 +18,7 @@ After that, close and re-open all of your Terminal emulators to enable the comma
 # Usage
 You can download something from YouTube as an MP3 at any time by opening a Terminal and typing something like
 
-``ytdlmp3 https://www.youtube.com/watch?v=jvFvLdHz4oc``
+``ytdlmp3 https://www.youtube.com/watch?v=ozIZSVrLBio``
 
 - as an example.
 
