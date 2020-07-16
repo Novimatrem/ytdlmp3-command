@@ -14,8 +14,14 @@ Append a line in your ``.bashrc``;
 
 After that, close and re-open all of your Terminal emulators to enable the command to work inside of them.
 
+
 # Usage
-You can download something from YouTube as an MP3 at any time by opening a Terminal and typing something like ``ytdlmp3 https://www.youtube.com/watch?v=jvFvLdHz4oc``, for example.
+You can download something from YouTube as an MP3 at any time by opening a Terminal and typing something like
+
+``ytdlmp3 https://www.youtube.com/watch?v=jvFvLdHz4oc``
+
+- as an example.
+
 
 # Having trouble?
 Sometimes Google/YouTube change-things-up to cause issues for open-source users and software. Be sure to UPDATE youtube-dl to the latest, with the following commands, if you encounter issues;
